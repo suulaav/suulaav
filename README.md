@@ -5,7 +5,6 @@
 I am a dedicated Backend Developer with a passion for building robust SaaS products. With experience in Java EE, Python, and a keen interest in Rust, I thrive in environments that challenge me to continuously learn and grow. My goal is to contribute to cutting-edge projects while maintaining the highest standards of quality and innovation.
 
 - **Email:** suulaav@gmail.com
-- **Phone:** +977-9841197377
 - **Location:** Chabahil, Kathmandu, Nepal
 
 ## Work Experience
