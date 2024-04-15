@@ -1,4 +1,4 @@
-# [Your Name]
+# Sulav Poudel
 
 ## About Me
 
@@ -7,11 +7,10 @@ I am a passionate software engineer with expertise in Java, Python, Rust, and Go
 ## Skills
 
 - **Languages:** Java, Python, Rust, Go
-- **Backend Development:** Spring Boot, Django, Rocket, Gin
+- **Backend Development:** Spring Boot, Flask, Actix, Gin
 - **Database:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
-- **Cloud Technologies:** AWS, Google Cloud Platform
-- **Version Control:** Git, GitHub
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **Cloud Technologies:** Azure, Google Cloud Platform
 
 ## Projects
 
