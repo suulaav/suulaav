@@ -1,62 +1,57 @@
+# [Your Name]
 
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+## About Me
 
-<br/>
+I am a passionate software engineer with expertise in Java, Python, Rust, and Go. With a strong foundation in backend development, I thrive on learning new technologies and solving complex problems. My goal is to contribute to impactful projects and continuously grow as a developer.
 
+## Skills
 
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
+- **Languages:** Java, Python, Rust, Go
+- **Backend Development:** Spring Boot, Django, Rocket, Gin
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
+- **Cloud Technologies:** AWS, Google Cloud Platform
+- **Version Control:** Git, GitHub
 
-<br />
+## Projects
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+### [Project Name]
 
+Brief description of the project and your role in it.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+- Technologies used: [List of technologies used]
+- Link to project repository: [GitHub repository link]
 
+### [Project Name]
 
-**Talking about Personal Stuffs:**
+Brief description of the project and your role in it.
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+- Technologies used: [List of technologies used]
+- Link to project repository: [GitHub repository link]
 
+## Experience
 
+- **[Company Name], [Job Title]** *(Dates)*
+  Description of your responsibilities and achievements.
 
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+- **[Company Name], [Job Title]** *(Dates)*
+  Description of your responsibilities and achievements.
 
-**Languages and Tools:**
+## Education
 
+- **[Degree], [University Name]** *(Year)*
+  Description of your degree and relevant coursework.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## Certifications
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
-view rawBlog hosted with ❤ by GitHub
+- **[Certification Name], [Issuing Organization]** *(Year)*
+  Description of the certification and its relevance.
+
+## Contact Me
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Email Address]
+
+## Additional Information
+
+Include any additional information or links to your personal website, blog, or portfolio if applicable.
